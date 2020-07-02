@@ -19,7 +19,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <spring.version>5.2.3.RELEASE</spring.version>
     <commons-lang.version>2.6</commons-lang.version>
-    <jdbc.version>5.1.48</jdbc.version>
+    <jdbc.version>8.0.16</jdbc.version>
   </properties>
 
   <dependencyManagement>
